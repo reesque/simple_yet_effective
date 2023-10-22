@@ -14,4 +14,5 @@
 - DM: [LightDM](https://wiki.archlinux.org/title/LightDM)
 - Greeter: [Web-Greeter](https://github.com/JezerM/web-greeter), with Gruvbox theme modified
 - Terminal: [XFCE4-Terminal](https://docs.xfce.org/apps/terminal/start)
+- Fetch: [pfetch](https://github.com/dylanaraps/pfetch)
 - Wallpaper: [Source](https://www.pexels.com/photo/adventure-alpine-background-black-and-white-355747/)
