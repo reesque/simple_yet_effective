@@ -2,9 +2,11 @@
   <h3>Simple, Yet Effective</h3>
 </div>
 
+![](https://github.com/akhoanv/simple_yet_effective/blob/main/screenshots/desktop.png?raw=true)
+
 # Content:
 
-### Don't blindly use my config. Adjust it to your liking, and use it at your own risk ###
+### Don't blindly use my config. Read the files, adjust it to your liking, and use it at your own risk ###
 
 - Distro: [Debian](https://www.debian.org/)
 - Windows Manager: [i3wm](https://i3wm.org/) 
